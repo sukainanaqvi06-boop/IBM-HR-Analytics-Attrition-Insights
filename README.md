@@ -17,9 +17,9 @@ This project analyzes employee data to understand why people leave the organizat
 * Environment Satisfaction: Understanding how the work atmosphere affects employee stay-or-leave decisions.
 
 # Files in Repository:
-* hr_data_cleaning.py (Python Code)
-* hr_queries.sql (SQL File)
-* HR_Attrition_Dashboard.pbix (Power BI Dashboard)
+* hr_analysis.py (Python Code)
+* hr_attrition_analysis_queries.sql.sql (SQL File)
+* HR Employee Attrition Dashboard.pbix (Power BI Dashboard)
 
 <img width="1166" height="654" alt="hr_analysis_screenshot" src="https://github.com/user-attachments/assets/3bdca763-a3ea-4540-b85d-bf06bc03e547" />
 
