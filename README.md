@@ -21,5 +21,6 @@ This project analyzes employee data to understand why people leave the organizat
 * hr_attrition_analysis_queries.sql.sql (SQL File)
 * HR Employee Attrition Dashboard.pbix (Power BI Dashboard)
 
-<img width="1166" height="654" alt="hr_analysis_screenshot" src="https://github.com/user-attachments/assets/3bdca763-a3ea-4540-b85d-bf06bc03e547" />
+<img width="1165" height="655" alt="HR-Analysis-Dashboard-Screenshot" src="https://github.com/user-attachments/assets/a79b7bdc-b4e3-4bb5-bade-4681abc8aa06" />
+
 
